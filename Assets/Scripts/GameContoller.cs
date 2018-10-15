@@ -68,7 +68,7 @@ public class GameContoller : MonoBehaviour
 	            state = GameStatus.Playing1;
             }
 		}
-		else if (state == GameStatus.Playing1 && state == GameStatus.Playing2)
+		else if (state == GameStatus.Playing1 || state == GameStatus.Playing2)
 		{
 			// UI setting
 			if (StartMenu_UI.activeSelf)
