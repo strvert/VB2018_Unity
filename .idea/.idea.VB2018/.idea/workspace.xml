@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="670a78d6-832f-4539-b0e8-1e34543ac1a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../dotnettest/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../dotnettest/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Editor/DefaultStreamPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Editor/RealSenseDeviceEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Editor/RealSenseDeviceInspectorEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Editor/Tests/NewPlayModeTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Materials/ARBackgroundMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Materials/BGSegMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Materials/CustomSkybox.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Materials/GrayscaleMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Materials/IRmat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Materials/PointCloudMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Materials/RGBMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Materials/depthMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Editor/CreateAssetBundles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Prefabs/ColormapDropdown.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Prefabs/ErrorPanel.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Prefabs/MinMaxSlider.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Prefabs/PlayPause.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Prefabs/SampleUI.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/SampleSceneUI.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/005b-help-outlined.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/081-arrow-back-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/087-on-off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/253-play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/254-pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/GitHub-Mark-Light-32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/grayscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/look.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/magnify.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/pan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/rs16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/Icons/rs256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/colormaps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/forkme_left_darkblue_121621.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/realsense.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/realsense_4c_075_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/BoolToFloat.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/ErrorPopup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/FloatToStringFormat.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/FloatTween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/GetMaterialFloat.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/GetMaterialInt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/MinMaxSlider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/MoveAlongZ.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/NamedTextureBinding.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/OrbitCameraControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/SceneLoader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/StringFloatBinding.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/StringIntBinding.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Misc/Utils/Utils.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Prefabs/PointCloud.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Prefabs/RealsenseDevice.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scenes/Samples/ARBackground.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scenes/Samples/AlignmentSample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scenes/Samples/BackgroundSegmentation.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scenes/Samples/PointCloudDepth.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scenes/Samples/PointCloudDepthAndColor.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scenes/Samples/TexturesDepthAndColor.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scenes/Samples/TexturesDepthAndInfrared.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scenes/StartHere.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSense.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSenseARBackgroundRenderer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSenseAlignImages.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSenseColorizeDepth.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSenseConfiguration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSenseDevice.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSenseDeviceInspector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSenseDeviceListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSensePointCloudGenerator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSenseStreamAvailability.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Scripts/RealSenseStreamTexture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Shaders/ARBackground.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Shaders/BGSeg.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Shaders/BW.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Shaders/Custom Skybox.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Shaders/Depth.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Shaders/Grayscale.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Shaders/PointCloud.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Shaders/PointCloudGeom.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Assets/RealSenseSDK2.0/Shaders/RGB.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../dotnettest/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../dotnettest/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/ScriptAssemblies/RealSense.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/ScriptAssemblies/Utils.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../dotnettest/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/00/00041e24a8ebd6a498e0ce1832ce37c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/00/00041e24a8ebd6a498e0ce1832ce37c2.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/01/013d31ba725d57441b37057eb0e5963e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/01/013d31ba725d57441b37057eb0e5963e.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/03/039e78b41f0eb704990fe2db1b3df336" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/03/039e78b41f0eb704990fe2db1b3df336.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/06/060e148624d6bb145942cb272dcb589b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/06/060e148624d6bb145942cb272dcb589b.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/07/07e17b14e6dff9944ae5388d96bed0be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/07/07e17b14e6dff9944ae5388d96bed0be.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/0c/0cb5af2596252a84f92b8901222f7f56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/0c/0cb5af2596252a84f92b8901222f7f56.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/0f/0f0259ab1e9845b45a49cc76d57bfeaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/0f/0f0259ab1e9845b45a49cc76d57bfeaf.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/11/11094a0e9f03e7f47857f1685a2ad81f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/11/11094a0e9f03e7f47857f1685a2ad81f.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/1a/1ab52817c84839c42a36fdb2035f025f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/1a/1ab52817c84839c42a36fdb2035f025f.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/1d/1dd3dc17d73a1d54fb1f0709329ffc1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/1d/1dd3dc17d73a1d54fb1f0709329ffc1e.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/27/27320a2a761fec34f84dbda2f1ec860c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/27/27320a2a761fec34f84dbda2f1ec860c.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/27/275c61d927c3905419c51168d934f4eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/27/275c61d927c3905419c51168d934f4eb.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/28/282f64936150245499cb3672e83c4a73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/28/282f64936150245499cb3672e83c4a73.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/29/297e2b35ab9a7c140ac84cbd3abd69e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/29/297e2b35ab9a7c140ac84cbd3abd69e8.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/2a/2a81fc1e64edf3540a7f9ba78a879104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/2a/2a81fc1e64edf3540a7f9ba78a879104.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/2a/2af2a3624ce78a94d8fa01f0e75a0fdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/2a/2af2a3624ce78a94d8fa01f0e75a0fdc.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/2c/2c8ebfabd3c077e48bd72007ea3ca226" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/2c/2c8ebfabd3c077e48bd72007ea3ca226.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/2e/2e2ca705e068d8147ab873ad0b3bd0ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/2e/2e2ca705e068d8147ab873ad0b3bd0ce.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/31/31d0040942473eb42b95960bbe1ba544" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/31/31d0040942473eb42b95960bbe1ba544.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/32/329acf72f0a5c214da48cffd8f30266a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/32/329acf72f0a5c214da48cffd8f30266a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/32/32a0faa869d56b94f839dcba748fdce3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/32/32a0faa869d56b94f839dcba748fdce3.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/36/366bd8a1cd790b04298b201fdbe97cd3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/36/366bd8a1cd790b04298b201fdbe97cd3.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/38/38e5ad89f2781c94caa604e663783f7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/38/38e5ad89f2781c94caa604e663783f7b.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/39/396efd6c723e8db47a7a3e6a5ad0499a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/39/396efd6c723e8db47a7a3e6a5ad0499a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/3a/3a8f8c691fcc38d4c956485dfc073ab4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/3a/3a8f8c691fcc38d4c956485dfc073ab4.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/44/449f471c51c81384ea3a799f9f86122c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/44/449f471c51c81384ea3a799f9f86122c.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/46/46ef920fe825d5c4996039f57cad2ffa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/46/46ef920fe825d5c4996039f57cad2ffa.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/47/4768d15cf9a67ee4c848c5899a7d7e81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/47/4768d15cf9a67ee4c848c5899a7d7e81.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/47/47de55eac64d57d48ab3978b43242d29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/47/47de55eac64d57d48ab3978b43242d29.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/48/48c52a79b18d605458278cb5d9aa14eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/48/48c52a79b18d605458278cb5d9aa14eb.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/4d/4d24a48534a94294c9852b1432f6b34e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/4d/4d24a48534a94294c9852b1432f6b34e.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/51/51643baffea921e498547b70d1c34dbe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/51/51643baffea921e498547b70d1c34dbe.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/53/53d6ae65d7da7a2429bf5854c97e5e0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/53/53d6ae65d7da7a2429bf5854c97e5e0d.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/57/5783a1f43dac84f41b4d0204c378d76a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/57/5783a1f43dac84f41b4d0204c378d76a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/59/595879b7aa8f861409d591d93afd819d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/59/595879b7aa8f861409d591d93afd819d.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/59/59ef46997f8e17b44a414c4625f3af93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/59/59ef46997f8e17b44a414c4625f3af93.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/5e/5e9de158269bbf84dbbfe3f295429133" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/5e/5e9de158269bbf84dbbfe3f295429133.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/5f/5f5178de147980445b6bf3d82d3ab828" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/5f/5f5178de147980445b6bf3d82d3ab828.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/63/63925bec34e00824aa11f2e370622204" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/63/63925bec34e00824aa11f2e370622204.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/63/63e1cf4d78e8049449934e7831b8d507" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/63/63e1cf4d78e8049449934e7831b8d507.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/66/66fdfcada2704184485a90166c079a87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/66/66fdfcada2704184485a90166c079a87.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/67/6791561096fc3b044834b8fad4d6fd06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/67/6791561096fc3b044834b8fad4d6fd06.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/6b/6b84ee3af82311348be8567ed3e94f03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/6b/6b84ee3af82311348be8567ed3e94f03.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/6e/6e1f5e9643df5bb4bb6205cfa99759a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/6e/6e1f5e9643df5bb4bb6205cfa99759a7.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/70/701924db2ae3d894aafb2d751551e249" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/70/701924db2ae3d894aafb2d751551e249.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/73/737ed57de85af3a41b72a39dd287955e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/73/737ed57de85af3a41b72a39dd287955e.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/74/74a2820c449cc0b47a5cca92ccd1fe6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/74/74a2820c449cc0b47a5cca92ccd1fe6c.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/77/773cb05a1ba9e9a40b67fa422d92f607" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/77/773cb05a1ba9e9a40b67fa422d92f607.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/7a/7adc5cd8d63de844f8f9c013c8b68cbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/7a/7adc5cd8d63de844f8f9c013c8b68cbb.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/7e/7ee609f03ba183c4d97ce5ef320900f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/7e/7ee609f03ba183c4d97ce5ef320900f8.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/88/880657c8d67520c40844f18e663b310e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/88/880657c8d67520c40844f18e663b310e.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/89/89232479b8ac84145a0f2949ae7c1ac8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/89/89232479b8ac84145a0f2949ae7c1ac8.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/89/89fa69815ee025d449fc9dab1b82841c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/89/89fa69815ee025d449fc9dab1b82841c.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/8c/8c87e72b38c55bb4bba154ac5e529534" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/8c/8c87e72b38c55bb4bba154ac5e529534.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/8c/8cd4fe0a765335f4080be5574f790d9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/8c/8cd4fe0a765335f4080be5574f790d9f.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/8e/8e1baac638c129d4ca3bbda1de70988a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/8e/8e1baac638c129d4ca3bbda1de70988a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/90/9029980bf604b504c8b5473f02bd774f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/90/9029980bf604b504c8b5473f02bd774f.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/94/946d2ca13e1ed944991bdd1374ce6ec0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/94/946d2ca13e1ed944991bdd1374ce6ec0.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/95/958b69692c3f53549b98d359ca97e579" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/95/958b69692c3f53549b98d359ca97e579.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/96/967fa27358fa26d428f89abc9b1cafb4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/96/967fa27358fa26d428f89abc9b1cafb4.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/9a/9a32b03a064ab0c49ab075125e7cf6d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/9a/9a32b03a064ab0c49ab075125e7cf6d5.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a1/a1efe8d13569ef747ae9556b47f8ac80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a1/a1efe8d13569ef747ae9556b47f8ac80.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a2/a22b65f84439c1c43a435fbe41c58f82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a2/a22b65f84439c1c43a435fbe41c58f82.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a2/a243c9c636ffb794f8231eb55d0ae07a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a2/a243c9c636ffb794f8231eb55d0ae07a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a2/a2bade7ff40ff92409855b062870dccd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a2/a2bade7ff40ff92409855b062870dccd.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a5/a5d8502fceaaca84e92feaf9164f120a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a5/a5d8502fceaaca84e92feaf9164f120a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a8/a88d3559a65c7024fb983e435d846e5e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/a8/a88d3559a65c7024fb983e435d846e5e.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/aa/aa4183e682c996540be86aee2429b651" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/aa/aa4183e682c996540be86aee2429b651.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ab/ab85129d6ab9eae4aa6773f7276abff1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ab/ab85129d6ab9eae4aa6773f7276abff1.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ad/ad54857953739b8469990250f7617d7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ad/ad54857953739b8469990250f7617d7d.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ad/ad8b7b54f38a87441a12f9d70126b777" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ad/ad8b7b54f38a87441a12f9d70126b777.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ae/ae0d3f20370599f42ae593d04e681d3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ae/ae0d3f20370599f42ae593d04e681d3d.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/af/afe47fa750736f44b9bbdb5aa3df6269" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/af/afe47fa750736f44b9bbdb5aa3df6269.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b4/b450f17118e189b44afff9200f9d1672" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b4/b450f17118e189b44afff9200f9d1672.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b5/b532953e2d5d81740a59edf3039bff17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b5/b532953e2d5d81740a59edf3039bff17.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b5/b58b736dcdf5e6d4dbe73d67853a2ace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b5/b58b736dcdf5e6d4dbe73d67853a2ace.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b6/b655c8c282701ad449d0eacb8dac3f9b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b6/b655c8c282701ad449d0eacb8dac3f9b.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b8/b80f92b6b2fae2c49b8c47cc06021201" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b8/b80f92b6b2fae2c49b8c47cc06021201.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b8/b8cb9b607ca4ccd44888305ebdf45d40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/b8/b8cb9b607ca4ccd44888305ebdf45d40.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ba/bab1b611acfb9ac478e57e57d8b3491d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ba/bab1b611acfb9ac478e57e57d8b3491d.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/bd/bd442a60e37387d44aa2c43754ac1df1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/bd/bd442a60e37387d44aa2c43754ac1df1.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/c0/c0cdda6b99d1afe4999470125a32c4ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/c0/c0cdda6b99d1afe4999470125a32c4ca.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/c4/c4b853c1285d9324e999dc60a8a399d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/c4/c4b853c1285d9324e999dc60a8a399d5.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/c6/c6ee02bcb0fe6964bb4971550b9c354f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/c6/c6ee02bcb0fe6964bb4971550b9c354f.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/c7/c75ac69040782d246b1a8fb20762ec8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/c7/c75ac69040782d246b1a8fb20762ec8c.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/cc/cc1e75ec3c5a48f4fa3e6be5870af5a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/cc/cc1e75ec3c5a48f4fa3e6be5870af5a1.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/d6/d699fd1b70f2baa468a2a85b2b76509e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/d6/d699fd1b70f2baa468a2a85b2b76509e.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/dc/dcb7835ca163a40408d6227793143806" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/dc/dcb7835ca163a40408d6227793143806.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/de/de74845d9527704479594f2924e15789" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/de/de74845d9527704479594f2924e15789.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/df/dfa27dc8470bd7b498ed3648d70e2d9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/df/dfa27dc8470bd7b498ed3648d70e2d9f.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/df/dfd79a846b48a6b42af02cc534238d2a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/df/dfd79a846b48a6b42af02cc534238d2a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/e0/e0ddc93dc1c324c4da497faef7883f19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/e0/e0ddc93dc1c324c4da497faef7883f19.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/e7/e79aa3df081152e4c9d99bcef47e9474" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/e7/e79aa3df081152e4c9d99bcef47e9474.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ea/eac10fbdbb315a34b997f63c967bc6ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ea/eac10fbdbb315a34b997f63c967bc6ff.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ed/edcacd9285a1fb242a7a1797a63904c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ed/edcacd9285a1fb242a7a1797a63904c6.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/f5/f59de22db6bfdfe46937570a9af2882b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/f5/f59de22db6bfdfe46937570a9af2882b.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/f8/f8395e4599857704d889f76eb8a306b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/f8/f8395e4599857704d889f76eb8a306b5.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/f8/f8e2ea523a78cf145a7e650c32e39fc3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/f8/f8e2ea523a78cf145a7e650c32e39fc3.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/fc/fca82eb5c002e9447b9181652f6fb6b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/fc/fca82eb5c002e9447b9181652f6fb6b5.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ff/ff211a535eae0db439788d860cd9b687" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Library/metadata/ff/ff211a535eae0db439788d860cd9b687.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/OpenCVLib/.vs/OpenCVLib/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../dotnettest/OpenCVLib/.vs/OpenCVLib/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/OpenCVLib/.vs/OpenCVLib/v15/Browse.VC.opendb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/RealSense.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../dotnettest/RealSense.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/Utils.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../dotnettest/Utils.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnettest/dotnettest.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../dotnettest/dotnettest.sln" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-834083845">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="11147" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="11147" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameContoller.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="101" column="15" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+              <folding>
+                <marker date="1539637783829" expanded="true" signature="6:179" ph="..." />
+                <marker date="1539637783829" expanded="true" signature="224:3871" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="251:315" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="793:1029" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="958:1025" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="1082:3786" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="1122:1435" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="1175:1220" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="1254:1298" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="1361:1431" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="1508:3780" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="1561:1606" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="1640:1684" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="1749:1958" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="1862:1944" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="2065:2527" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="2431:2513" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="2569:2959" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="2775:2945" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="3044:3770" ph="{...}" />
+                <marker date="1539637783829" expanded="true" signature="3841:3869" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TrrigerVolume.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+              <folding>
+                <marker date="1539565512252" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539565512252" expanded="true" signature="122:474" ph="{...}" />
+                <marker date="1539565512252" expanded="true" signature="236:243" ph="{...}" />
+                <marker date="1539565512252" expanded="true" signature="298:305" ph="{...}" />
+                <marker date="1539565512252" expanded="true" signature="351:471" ph="{...}" />
+                <marker date="1539565512252" expanded="true" signature="386:468" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawn.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1539559754277" expanded="true" signature="6:78" ph="..." />
+                <marker date="1539559754277" expanded="true" signature="119:489" ph="{...}" />
+                <marker date="1539559754277" expanded="true" signature="220:487" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Unity</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameContoller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TrrigerVolume.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/SocketServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventVolume.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TrrigerVolume.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameContoller.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2746" />
+    <option name="y" value="678" />
+    <option name="width" value="2160" />
+    <option name="height" value="1305" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="670a78d6-832f-4539-b0e8-1e34543ac1a2" name="Default Changelist" comment="" />
+      <created>1539536363990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539536363990</updated>
+      <workItem from="1539536369820" duration="21963000" />
+      <workItem from="1539631496729" duration="4333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26296000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2471" y="452" width="1440" height="870" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536232" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SocketServer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventVolume.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1539559754277" expanded="true" signature="6:78" ph="..." />
+            <marker date="1539559754277" expanded="true" signature="119:489" ph="{...}" />
+            <marker date="1539559754277" expanded="true" signature="220:487" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TrrigerVolume.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <marker date="1539565512252" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539565512252" expanded="true" signature="122:474" ph="{...}" />
+            <marker date="1539565512252" expanded="true" signature="236:243" ph="{...}" />
+            <marker date="1539565512252" expanded="true" signature="298:305" ph="{...}" />
+            <marker date="1539565512252" expanded="true" signature="351:471" ph="{...}" />
+            <marker date="1539565512252" expanded="true" signature="386:468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameContoller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="101" column="15" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+          <folding>
+            <marker date="1539637783829" expanded="true" signature="6:179" ph="..." />
+            <marker date="1539637783829" expanded="true" signature="224:3871" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="251:315" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="793:1029" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="958:1025" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="1082:3786" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="1122:1435" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="1175:1220" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="1254:1298" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="1361:1431" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="1508:3780" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="1561:1606" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="1640:1684" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="1749:1958" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="1862:1944" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="2065:2527" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="2431:2513" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="2569:2959" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="2775:2945" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="3044:3770" ph="{...}" />
+            <marker date="1539637783829" expanded="true" signature="3841:3869" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
